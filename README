@@ -6,7 +6,7 @@ This plugin overrides the default Rails controller and model generators to bette
 Installation
 ============
 
-./script/plugin install http://github.com/enriquez/mikes_generators
+./script/plugin install git://github.com/enriquez/mikes-generators.git
 
 Example
 =======
